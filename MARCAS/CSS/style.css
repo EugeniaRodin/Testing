@@ -50,3 +50,8 @@ h1 {
 .button:hover {
     background-color: #666;
 }
+
+nav{
+    background-color: black;
+    color: white;
+}

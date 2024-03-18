@@ -37,3 +37,8 @@ h1 {
 .link:hover {
     background-color:darkslateblue;
 }
+
+nav{
+    background-color: black;
+    color: white;
+}
